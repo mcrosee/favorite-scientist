@@ -1,3 +1,6 @@
+A list of some of the top scientist to inspire you: https://xaellor.github.io/favorite-scientist/
+
+
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
